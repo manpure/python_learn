@@ -27,5 +27,5 @@ print(small_disk)
 print(medium_disk)
 
 #####output####
-['0', '2']
-['1', '3', '4']
+# ['0', '2']
+# ['1', '3', '4']
